@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "brand": "apple",
+    "name": "IPHONE 11 PRO MAX",
+    "price": 16349,
+    "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/APPLE/thumb/TeoriV2-103970-9_large.jpg"
+  },
+  {
+    "id": 2,
+    "brand": "apple",
+    "name": "IPHONE 11 PRO",
+    "price": 10000,
+    "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/APPLE/thumb/TeoriV2-104316_large.jpg"
+  },
+  {
+    "id": 3,
+    "brand": "apple",
+    "name": "IPHONE 11",
+    "price": 8000,
+    "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/APPLE/thumb/TeoriV2-103985_large.jpg"
+  },
+  {
+    "id": 4,
+    "brand": "apple",
+    "name": "IPHONE X",
+    "price": 3000,
+    "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/APPLE/thumb/v2-87944-30_large.jpg"
+  },
+  {
+    "id": 5,
+    "brand": "apple",
+    "name": "IPHONE XR",
+    "price": 7000,
+    "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/APPLE/thumb/v2-92551_large.jpg"
+  },
+  {
+    "id": 6,
+    "brand": "apple",
+    "name": "IPHONE SE",
+    "price": 5300,
+    "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/APPLE/thumb/TeoriV2-106858-3_large.jpg"
+  },
+  {
+    "id": 7,
+    "brand": "apple",
+    "name": "IPHONE 8 PLUS",
+    "price": 6700,
+    "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/APPLE/thumb/v2-87996_large.jpg"
+  },
+  {
+    "id": 8,
+    "brand": "apple",
+    "name": "IPHONE 8",
+    "price": 5700,
+    "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/APPLE/thumb/v2-87791-36_large.jpg"
+  },
+  {
+    "id": 9,
+    "brand": "apple",
+    "name": "IPHONE 7 PLUS",
+    "price": 5700,
+    "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/APPLE/thumb/v2-83635_large.jpg"
+  },
+  {
+    "id": 10,
+    "brand": "apple",
+    "name": "IPHONE 7",
+    "price": 4500,
+    "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/APPLE/thumb/v2-83125-8_large.jpg"
+  },
+  {
+    "id": 11,
+    "brand": "apple",
+    "name": "IPHONE 6S PLUS",
+    "price": 3500,
+    "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/APPLE/thumb/v2-83645_large.jpg"
+  },
+  {
+    "id": 12,
+    "brand": "apple",
+    "name": "IPHONE 6S",
+    "price": 3000,
+    "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/APPLE/thumb/v2-83639_large.jpg"
+  },
+  {
+    "id": 13,
+    "brand": "apple",
+    "name": "IPHONE 6 PLUS",
+    "price": 2200,
+    "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/APPLE/thumb/v2-74409-5_large.jpg"
+  },
+  {
+    "id": 14,
+    "brand": "apple",
+    "name": "IPHONE 6",
+    "price": 1700,
+    "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/APPLE/thumb/v2-85668-4_large.jpg"
+  },
+  {
+    "id": "15",
+    "brand": "IPHONE",
+    "name": "IPHONE XS MAX",
+    "price": "8399",
+    "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/APPLE/thumb/v2-91795-6_large.jpg"
+  },
+  {
+    "id": "17",
+    "brand": "Xiaomi",
+    "name": "Redmi Note 7",
+    "price": "2000",
+    "image": "https://productimages.hepsiburada.net/s/36/500/10503160856626.jpg"
+  },
+  {
+    "id": "18",
+    "brand": "Xiaomi",
+    "name": "Redmi Note 9",
+    "price": "2550",
+    "image": "https://productimages.hepsiburada.net/s/39/1500/10644504215602.jpg"
+  }
+]
